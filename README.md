@@ -1,7 +1,9 @@
 # SEDO-Pow-Token
 Sedo Coin
 [Deployed on ROPSTEN Ethereum](https://ropsten.etherscan.io/address/0x3c3f4afc4ae44a5486dfd5cdc1712fada97fbea4)
- 
+[Deployed on MAINNET Ethereum](https://etherscan.io/address/0x0f00f1696218eaefa2d2330df3d6d1f94813b38f)
+
+
 ![SEDO_small](http://sedocoin.org/wp-content/uploads/2018/10/logo_blue_240.png)
 
 
